@@ -31,7 +31,6 @@ Conhecimento intermediário em Git + GitHub;
 Conhecimento Básico em Java;
 Conhecimento Básico em HTML;
 Conhecimento Básico em CSS;
-Conhecimento Básico em AWS.
 
 SOFT SKILLS
 Bastante comunicativo;
